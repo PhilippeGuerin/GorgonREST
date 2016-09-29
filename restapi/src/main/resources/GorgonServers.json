@@ -1,0 +1,5 @@
+[{"id":2,"name":"Local CSS","url":"localhost","port":2280,"database":
+    "postgres","login":"operator","password":"CastAIP","schema":"gorgon",
+    "state":"unchanged"},{"id":3,"name":"PGU CSS","url":"192.168.53.12","port":2280,"database":
+    "postgres","login":"operator","password":"CastAIP","schema":"gorgon",
+    "state":"unchanged"}]

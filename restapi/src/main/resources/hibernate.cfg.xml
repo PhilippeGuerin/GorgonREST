@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+                                         "classpath://org/hibernate/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+ <session-factory>
+  <mapping class="com.castsoftware.gorgon.db.tables.MetricEntity"/>
+  <mapping class="com.castsoftware.gorgon.db.tables.SchemaEntity"/>
+  <mapping class="com.castsoftware.gorgon.db.tables.SchemaMetricEntity"/>
+  <mapping class="com.castsoftware.gorgon.db.tables.SchemaTypeEntity"/>
+  <mapping class="com.castsoftware.gorgon.db.tables.ServerEntity"/>
+ </session-factory>
+</hibernate-configuration>
